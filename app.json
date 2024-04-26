@@ -1,7 +1,7 @@
 {
-    "name": "⦓ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗧𝗘𝗧𝗢  ⦔",
+    "name": "⦓ 𝗦𝗢𝗨𝗥𝗖𝗘 𝙉𝙊𝘽𝙄𝙏𝙊 ⦔",
     "description": "تنصيب بوتات اغاني للتشغيل في المكالمات الصوتية",
-    "logo": "https://telegra.ph/file/9cd60e6de8355a8866eda.jpg",
+    "logo": "https://telegra.ph/file/6a7652891cf711479e8fc.png",
     "keywords": [
     "python3",
     "telegram",
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/T7_Au",
+        "value": "https://t.me/msmsmskskskke",
         "required": false
       }
     },
